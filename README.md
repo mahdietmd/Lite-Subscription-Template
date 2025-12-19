@@ -96,7 +96,7 @@
 </div>
 
 ```bash
-sudo wget -N -P /var/lib/marzban/templates/subscription/ https://raw.githubusercontent.com/Mrclocks/MrClock-Subscription-Template/main/index.html
+sudo wget -N -P /var/lib/marzban/templates/subscription/ https://raw.githubusercontent.com/mahdietmd/Lite-Subscription-Template/main/index.html
 ```
 
 <div>
